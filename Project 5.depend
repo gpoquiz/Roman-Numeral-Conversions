@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1524915762 source:e:\new folder\one drive\onedrive - the university of texas at dallas\cs\project 5\main.cpp
+	<iostream>
+	<fstream>
+	"Menu.h"
+
+1524916017 source:e:\new folder\one drive\onedrive - the university of texas at dallas\cs\project 5\src\basenode.cpp
+	"BaseNode.h"
+
+1524916018 e:\new folder\one drive\onedrive - the university of texas at dallas\cs\project 5\include\basenode.h
+	<string>
+	<iostream>
+	<iomanip>
+
+1524993930 source:e:\new folder\one drive\onedrive - the university of texas at dallas\cs\project 5\src\list.cpp
+	"List.h"
+
+1524916018 e:\new folder\one drive\onedrive - the university of texas at dallas\cs\project 5\include\list.h
+	"Node.h"
+
+1524916017 e:\new folder\one drive\onedrive - the university of texas at dallas\cs\project 5\include\node.h
+	<BaseNode.h>
+
+1524879008 source:e:\new folder\one drive\onedrive - the university of texas at dallas\cs\project 5\src\node.cpp
+	"Node.h"
+
+1524916017 source:e:\new folder\one drive\onedrive - the university of texas at dallas\cs\project 5\src\menu.cpp
+	"Menu.h"
+
+1524916018 e:\new folder\one drive\onedrive - the university of texas at dallas\cs\project 5\include\menu.h
+	<List.h>
+
